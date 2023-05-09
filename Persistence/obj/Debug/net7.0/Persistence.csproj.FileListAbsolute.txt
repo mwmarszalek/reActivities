@@ -1,0 +1,15 @@
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/michal/Desktop/dotNetReactApp/Reactivities/Persistence/obj/Debug/net7.0/ref/Persistence.dll
