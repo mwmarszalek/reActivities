@@ -1,3 +1,8 @@
+// run script from assets folder
+// install nu:get packages:
+// Microsoft.EntityFrameworkCore.Sqlite into Persistence.csproj (using nuget gallery)
+// Microsoft.EntityFrameworkCore.Design (install into API)
+
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -29,5 +34,22 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
+
+using var scope = app.Services.CreateScope();
+var services = scope.ServiceProvider;
+
+
+// the below updates (or creates new if not exisiting) database on each run
+// and catches errors
+try
+{
+    var context = services.GetRequiredService<DataContext>();
+    context.Database.Migrate();
+}
+catch (Exception ex)
+{
+    var logger = services.GetRequiredService<ILogger<Program>>();
+    logger.LogError(ex, "An error occured during migration");
+}
 
 app.Run();
