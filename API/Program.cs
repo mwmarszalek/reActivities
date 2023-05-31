@@ -2,6 +2,8 @@
 // install nu:get packages:
 // Microsoft.EntityFrameworkCore.Sqlite into Persistence.csproj (using nuget gallery)
 // Microsoft.EntityFrameworkCore.Design (install into API)
+// MediatR.Extensions.Microsoft.DependencyInjection by Jimmy Bogard (install into Application)
+
 
 using Microsoft.EntityFrameworkCore;
 using Persistence;
