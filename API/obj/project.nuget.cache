@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CqpePYjXDxJXBQFRp+QQ9GsiEkRURdw/MPjGfEfToVXkWglvrUfZIypeDvbtt+N8ugbKBY0YqS5wPRVtmxBJGw==",
+  "dgSpecHash": "hhdFnjg8NhczFIu+7kWqfPFE6dVQ97cAfFtD/QmneSnjhJVH+ZdmuIdmEq82QeSrHFBrBDTDK9icL6tubbLORA==",
   "success": true,
   "projectFilePath": "/Users/michal/Desktop/dotNetReactApp/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/michal/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/michal/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/michal/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/michal/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/michal/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "/Users/michal/.nuget/packages/microsoft.data.sqlite.core/7.0.5/microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "/Users/michal/.nuget/packages/microsoft.entityframeworkcore/7.0.5/microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

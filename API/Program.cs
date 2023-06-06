@@ -5,6 +5,8 @@
 // MediatR.Extensions.Microsoft.DependencyInjection by Jimmy Bogard (install into Application)
 
 
+using Application.Activities;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 
@@ -31,6 +33,7 @@ builder.Services.AddCors(opt =>
     });
 });
 
+builder.Services.AddMediatR(typeof(List.Handler));
 
 var app = builder.Build();
 
