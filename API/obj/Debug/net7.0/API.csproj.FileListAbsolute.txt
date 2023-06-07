@@ -76,3 +76,5 @@
 /Users/michal/Desktop/dotNetReactApp/Reactivities/API/bin/Debug/net7.0/MediatR.dll
 /Users/michal/Desktop/dotNetReactApp/Reactivities/API/bin/Debug/net7.0/MediatR.Contracts.dll
 /Users/michal/Desktop/dotNetReactApp/Reactivities/API/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/michal/Desktop/dotNetReactApp/Reactivities/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/michal/Desktop/dotNetReactApp/Reactivities/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
