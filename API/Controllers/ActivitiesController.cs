@@ -12,9 +12,9 @@ namespace API.Controllers
 
 
         [HttpGet] //api/activities
-        public async Task<ActionResult<List<Activity>>> GetActivities()
+        public async Task<ActionResult<List<Activity>>> GetActivities(CancellationToken ct)
         {
-            return await Mediator.Send(new List.Query());
+            return await Mediator.Send(new List.Query(), ct);
         }
 
         [HttpGet("{id}")] //api/activities/{id}
